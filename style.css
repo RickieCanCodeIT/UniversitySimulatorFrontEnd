@@ -1,0 +1,17 @@
+.container {
+    background-color: ivory;
+}
+.studentName {
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.studentMajor {
+    color: purple;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.studentId {
+    color: purple;
+    font-family: 'Courier New', Courier, monospace;
+}
